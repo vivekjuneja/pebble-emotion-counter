@@ -1,6 +1,11 @@
 # pebble-emotion-counter
 An attempt to build a simple Pebble Application for capturing emotion states for later analysis
 
+
+![Screeshot of the App]
+(https://github.com/vivekjuneja/pebble-emotion-counter/raw/master/resources/images/emoter-app.jpg)
+
+
 **Brief Process**
 
 I used Pebble 4 SDK and PebbleKit JS to build a simple application for Pebble 2 watch. The goal is to build a simple 
